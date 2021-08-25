@@ -78,6 +78,9 @@ main{
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 768px) {
+  .card__title{
+    font-size: 12px;
+  }
   .card__description{
     font-size: 10px;
     white-space: nowrap;
