@@ -68,7 +68,7 @@ main{
     margin-bottom: 16px;
   }
   .card__title{
-    font-size: 8px;
+    font-size: 6px;
   }
   .card__description{
     display: none;
