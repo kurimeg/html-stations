@@ -69,7 +69,7 @@ main{
     margin-bottom: 16px;
   }
   .card__title{
-    font-size: 12px;
+    font-size: 8px;
   }
   .card__description{
     display: none;
@@ -79,10 +79,10 @@ main{
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 768px) {
   .card__title{
-    font-size: 12px;
+    font-size: 10px;
   }
   .card__description{
-    font-size: 10px;
+    font-size: 8px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
